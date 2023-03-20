@@ -25,7 +25,7 @@ const Home = () => {
   const handleSubmit = async(event) => {
     event.preventDefault();
     
-    window.location.replace(`http://${ipAddress}:5000`);
+    window.location.replace(`http://127.0.0.1:5000`);
   };
   
   const handleLogout = async () => {
@@ -43,11 +43,23 @@ const Home = () => {
           Here are the Services you have access to
         </div>
         <div className="card-click">
-          <div className="firstCard" onClick={handleSubmit} style={{cursor:'pointer'}}>
-              <CardNew name="Live Surviellence"/>
+          <div className="firstCard" style={{cursor:'pointer'}}>
+              
+              <a
+        href={`http://${ipAddress}:5000/`}
+        target="_blank"
+        rel="noreferrer"
+      >
+        <CardNew name="Live Surviellence"/>
+      </a>
           </div>
           <div className="secondCard" >
-              <CardNew name="AI Surviellence" onClick={handleSubmit} style={{cursor:'pointer'}}/>
+          <a
+        href={`http://${ipAddress}:5000/`}
+        target="_blank"
+        rel="noreferrer"
+      >
+        <CardNew name="AI Surviellence" style={{cursor:'pointer'}}/> </a>
           </div>
           
         </div>
