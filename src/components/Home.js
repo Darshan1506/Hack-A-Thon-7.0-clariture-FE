@@ -25,7 +25,7 @@ const Home = () => {
   const handleSubmit = async(event) => {
     event.preventDefault();
     
-    window.location.replace(`https://2602-117-250-3-86.in.ngrok.io/`);
+    window.location.replace(`http://${ipAddress}:5000`);
   };
   
   const handleLogout = async () => {
