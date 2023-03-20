@@ -1,8 +1,8 @@
-# Clariture (Submmitted In Hack-A-Thon-7.0)
-
-## [Demo Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
-
-## Introduction
+# 🏁Clariture
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=Black&size=25&lines=+Submmitted+In+Hack-A-Thon-7.0)](https://git.io/typing-svg)
+## 🏆[Demo Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
+## 🏆[GIF Link]()
+## 📜Introduction
 
 Here are some of the incidents which people have faced due to various hazardous activities.
 - Fires caused 3,704 deaths, 16,600 injuries, and $14.8 billion in property damage in 2019.
@@ -11,11 +11,11 @@ Here are some of the incidents which people have faced due to various hazardous 
 
 So here, we propose CLARITURE Smart AI Surveillance system will detect threats early and give users time to take precautionary measures.
 
-## Solution
+## 🎯Solution
 
 Clariture is a smart AI surveillance system that has been designed to detect threats early and provide users with ample time to take precautionary measures. With its advanced algorithms and machine learning capabilities, Clariture can quickly identify potential threats and alert security personnel or even the general public. The system is equipped with high-resolution cameras that can capture images and videos in real-time, allowing security personnel to monitor any suspicious activity in the area. Additionally, Clariture can analyze patterns of behavior and detect any anomalies, thus predicting potential threats before they occur. This early detection and timely response can help prevent dangerous situations from escalating and reduce the risk of harm to people or property. Overall, Clariture is a powerful tool for enhancing safety and security, enabling users to take proactive measures to prevent potential threats.
 
-## How to Run
+## 💻Installation and Setup
 
 ```
  git clone https://github.com/Darshan1506/Hack-A-Thon-7.0-clariture-FE.git
@@ -24,21 +24,30 @@ Clariture is a smart AI surveillance system that has been designed to detect thr
 
 ```
 
-## Output
+## 🏆Output
 
-## Tech Used 
-- Reactjs
-- FireBaseAuth
-- GoogleAuth
-- Cloud Firestore
-- CI/CD 
-- 
+## ⚙️Tech Used 
+<p>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+<code><img width="10%" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
+<code><img width="10%" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"></code>
 
-## Acknowledgement
+<code><img width="10%" src="https://keras.io/img/logo.png"></code>
+<code><img width="10%" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/230271/ngrok-black-lrg.png"></code>
+<code><img width="10%" src="https://www.pinpng.com/pngs/m/348-3488129_firebase-authentication-in-xamarin-firebase-authentication-logo-transparent.png"></code>
+<code><img width="10%" src="https://www.mabl.com/hubfs/CICDBlog.png"></code>
+</p>
+
+## 🔥Acknowledgement
 - https://legacy.reactjs.org/docs/getting-started.html
 - https://firebase.google.com/docs
+- https://github.com/Poojasharma1301/accident_detection_for_Clariture
+- https://github.com/Poojasharma1301/Violence_detection_for_Clariture
+- https://github.com/Poojasharma1301/Weapons_detection_for_Clariture
+- https://github.com/Poojasharma1301/Fire_detection_for_Clariture
 
-## Team Contribution
+## ⌛Team Contribution
 - [Sandeep Vishwakarma](https://github.com/sv2441) - Backend
 - [Sai Bhatkar](https://github.com/robospace9) - Backend 
 - [Pooja Sharma]() - Backend & Docs
