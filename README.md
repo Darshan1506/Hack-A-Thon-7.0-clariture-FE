@@ -30,7 +30,7 @@ Additionally, Clariture can analyze patterns of behavior and detect any anomalie
 ```
 
 ## 🏆Output
-
+https://user-images.githubusercontent.com/63538576/226506174-0b593554-e2b7-42c3-99fa-64bc371b4ff4.mp4
 ## ⚙️Tech Used 
 <p>
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
