@@ -50,7 +50,7 @@ const Home = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <CardNew name="Live Surviellence"/>
+        <CardNew name="AI Surviellence"/>
       </a>
           </div>
           <div className="secondCard" >
@@ -59,7 +59,7 @@ const Home = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <CardNew name="AI Surviellence" style={{cursor:'pointer'}}/> </a>
+        <CardNew name="Live Surviellence" style={{cursor:'pointer'}}/> </a>
           </div>
           
         </div>
