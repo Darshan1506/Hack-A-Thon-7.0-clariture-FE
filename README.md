@@ -33,8 +33,15 @@ Additionally, Clariture can analyze patterns of behavior and detect any anomalie
  npm start
 
 ```
-## 📊Dataset and Models
+## 📊Dataset ,Models and Modulewise code
 https://drive.google.com/drive/folders/1U7-npiyr0YFmWL4DXensD9vyOy3exkac?usp=share_link
+
+- [Accident detection module for Clariture](https://github.com/Poojasharma1301/accident_detection_for_Clariture)
+- [Violence detection module for Clariture](https://github.com/Poojasharma1301/Violence_detection_for_Clariture)
+- [Weapons detection module for Clariture](https://github.com/Poojasharma1301/Weapons_detection_for_Clariture)
+- [Fire detection module for Clariture](https://github.com/Poojasharma1301/Fire_detection_for_Clariture)
+
+
 ## 🏆Output
 https://user-images.githubusercontent.com/63538576/226506174-0b593554-e2b7-42c3-99fa-64bc371b4ff4.mp4
 ## ⚙️Tech Used 
