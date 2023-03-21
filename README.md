@@ -18,7 +18,8 @@ Clariture is a smart AI surveillance system that has been designed to detect thr
 - **Fire Detection**
 - **Weapon Detection**
 - **Violence Detection**
-- **Accident Detection**<br>
+- **Accident Detection**
+
 Additionally, Clariture can analyze patterns of behavior and detect any anomalies, thus predicting potential threats before they occur. This early detection and timely response can help prevent dangerous situations from escalating and reduce the risk of harm to people or property. Overall, Clariture is a powerful tool for enhancing safety and security, enabling users to take proactive measures to prevent potential threats.
 
 ## 💻Installation and Setup
