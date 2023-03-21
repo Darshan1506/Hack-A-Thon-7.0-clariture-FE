@@ -37,7 +37,6 @@ Additionally, Clariture can analyze patterns of behavior and detect any anomalie
 <code><img width="5%" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
 <code><img width="5%" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png"></code>
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"></code>
-
 <code><img width="5%" src="https://keras.io/img/logo.png"></code>
 <code><img width="5%" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/230271/ngrok-black-lrg.png"></code>
 <code><img width="5%" src="https://www.pinpng.com/pngs/m/348-3488129_firebase-authentication-in-xamarin-firebase-authentication-logo-transparent.png"></code>
