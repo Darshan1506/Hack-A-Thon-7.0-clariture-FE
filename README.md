@@ -33,7 +33,7 @@ Additionally, Clariture can analyze patterns of behavior and detect any anomalie
  npm start
 
 ```
-## 📊Dataset
+## 📊Dataset and Models
 https://drive.google.com/drive/folders/1U7-npiyr0YFmWL4DXensD9vyOy3exkac?usp=share_link
 ## 🏆Output
 https://user-images.githubusercontent.com/63538576/226506174-0b593554-e2b7-42c3-99fa-64bc371b4ff4.mp4
