@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=Black&size=25&lines=+Submmitted+In+Hack-A-Thon-7.0)](https://git.io/typing-svg)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
-![](https://github.com/Darshan1506/Hack-A-Thon-7.0-clariture-FE/blob/main/output%20gif.GIF)
 ## 📜Introduction
 
 Here are some of the incidents which people have faced due to various hazardous activities.
