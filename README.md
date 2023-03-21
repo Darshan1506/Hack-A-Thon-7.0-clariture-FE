@@ -13,7 +13,12 @@ So here, we propose CLARITURE Smart AI Surveillance system will detect threats e
 
 ## 🎯Solution
 
-Clariture is a smart AI surveillance system that has been designed to detect threats early and provide users with ample time to take precautionary measures. With its advanced algorithms and machine learning capabilities, Clariture can quickly identify potential threats and alert security personnel or even the general public. The system is equipped with high-resolution cameras that can capture images and videos in real-time, allowing security personnel to monitor any suspicious activity in the area. Additionally, Clariture can analyze patterns of behavior and detect any anomalies, thus predicting potential threats before they occur. This early detection and timely response can help prevent dangerous situations from escalating and reduce the risk of harm to people or property. Overall, Clariture is a powerful tool for enhancing safety and security, enabling users to take proactive measures to prevent potential threats.
+Clariture is a smart AI surveillance system that has been designed to detect threats early and provide users with ample time to take precautionary measures. With its advanced algorithms and machine learning capabilities, Clariture can quickly identify potential threats and alert security personnel or even the general public. The system is equipped with high-resolution cameras that can capture images and videos in real-time, allowing security personnel to monitor any suspicious activity in the area.
+- **Fire Detection**
+- **Weapon Detection**
+- **Violence Detection**
+- **Accident Detection**<br>
+Additionally, Clariture can analyze patterns of behavior and detect any anomalies, thus predicting potential threats before they occur. This early detection and timely response can help prevent dangerous situations from escalating and reduce the risk of harm to people or property. Overall, Clariture is a powerful tool for enhancing safety and security, enabling users to take proactive measures to prevent potential threats.
 
 ## 💻Installation and Setup
 
@@ -47,12 +52,12 @@ Clariture is a smart AI surveillance system that has been designed to detect thr
 - [Weapons detection module for Clariture](https://github.com/Poojasharma1301/Weapons_detection_for_Clariture)
 - [Fire detection module for Clariture](https://github.com/Poojasharma1301/Fire_detection_for_Clariture)
 
-## ⌛Team Contribution
-- [Sandeep Vishwakarma](https://github.com/sv2441) - Backend
-- [Sai Bhatkar](https://github.com/robospace9) - Backend 
-- [Pooja Sharma](https://github.com/Poojasharma1301) - Backend & Docs
-- [Satyam Palkar](https://github.com/SatyamPalkar) - Frontend & Docs
-- [Darshan Rajpurohit](https://github.com/Darshan1506) - Frontend
+## ⌛Team Contributor
+- [Sandeep Vishwakarma](https://github.com/sv2441)
+- [Sai Bhatkar](https://github.com/robospace9) 
+- [Pooja Sharma](https://github.com/Poojasharma1301)
+- [Satyam Palkar](https://github.com/SatyamPalkar)
+- [Darshan Rajpurohit](https://github.com/Darshan1506)
 
 
 
