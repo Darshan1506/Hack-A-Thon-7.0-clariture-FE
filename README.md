@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# 🏁Clariture
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=Black&size=25&lines=+Submmitted+In+Hack-A-Thon-7.0)](https://git.io/typing-svg)
+## 🏆[Demo Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
+## 🏆[GIF Link]()
+## 📜Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here are some of the incidents which people have faced due to various hazardous activities.
+- Fires caused 3,704 deaths, 16,600 injuries, and $14.8 billion in property damage in 2019.
+- Road accidents cause 1.35 million deaths annually and cost countries 3% of their GDP.
+- The economic and life losses caused by these incidents can have a significant impact on individuals, families, and communities.
 
-## Available Scripts
+So here, we propose CLARITURE Smart AI Surveillance system will detect threats early and give users time to take precautionary measures.
 
-In the project directory, you can run:
+## 🎯Solution
 
-### `yarn start`
+Clariture is a smart AI surveillance system that has been designed to detect threats early and provide users with ample time to take precautionary measures. With its advanced algorithms and machine learning capabilities, Clariture can quickly identify potential threats and alert security personnel or even the general public. The system is equipped with high-resolution cameras that can capture images and videos in real-time, allowing security personnel to monitor any suspicious activity in the area. Additionally, Clariture can analyze patterns of behavior and detect any anomalies, thus predicting potential threats before they occur. This early detection and timely response can help prevent dangerous situations from escalating and reduce the risk of harm to people or property. Overall, Clariture is a powerful tool for enhancing safety and security, enabling users to take proactive measures to prevent potential threats.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻Installation and Setup
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+ git clone https://github.com/Darshan1506/Hack-A-Thon-7.0-clariture-FE.git
+ npm install
+ npm start
 
-### `yarn test`
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🏆Output
 
-### `yarn build`
+## ⚙️Tech Used 
+<p>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+<code><img width="10%" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
+<code><img width="10%" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"></code>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<code><img width="10%" src="https://keras.io/img/logo.png"></code>
+<code><img width="10%" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/230271/ngrok-black-lrg.png"></code>
+<code><img width="10%" src="https://www.pinpng.com/pngs/m/348-3488129_firebase-authentication-in-xamarin-firebase-authentication-logo-transparent.png"></code>
+<code><img width="10%" src="https://www.mabl.com/hubfs/CICDBlog.png"></code>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔥Acknowledgement
+- https://legacy.reactjs.org/docs/getting-started.html
+- https://firebase.google.com/docs
+- https://github.com/Poojasharma1301/accident_detection_for_Clariture
+- https://github.com/Poojasharma1301/Violence_detection_for_Clariture
+- https://github.com/Poojasharma1301/Weapons_detection_for_Clariture
+- https://github.com/Poojasharma1301/Fire_detection_for_Clariture
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⌛Team Contribution
+- [Sandeep Vishwakarma](https://github.com/sv2441) - Backend
+- [Sai Bhatkar](https://github.com/robospace9) - Backend 
+- [Pooja Sharma]() - Backend & Docs
+- [Satyam Palkar]() - Frontend & Docs
+- [Darshan Rajpurohit](https://github.com/Darshan1506) - Frontend
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
