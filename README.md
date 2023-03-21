@@ -3,6 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=Black&size=25&lines=+Submmitted+In+Hack-A-Thon-7.0)](https://git.io/typing-svg)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
+
+![output gif](https://user-images.githubusercontent.com/62471058/226515397-276c5558-17aa-4d02-9fc9-cf7beaf62ef1.gif)
+
+
 ## 📜Introduction
 
 Here are some of the incidents which people have faced due to various hazardous activities.
@@ -18,8 +22,7 @@ Clariture is a smart AI surveillance system that has been designed to detect thr
 - **Fire Detection**
 - **Weapon Detection**
 - **Violence Detection**
-- **Accident Detection**
-
+- **Accident Detection**<br>
 Additionally, Clariture can analyze patterns of behavior and detect any anomalies, thus predicting potential threats before they occur. This early detection and timely response can help prevent dangerous situations from escalating and reduce the risk of harm to people or property. Overall, Clariture is a powerful tool for enhancing safety and security, enabling users to take proactive measures to prevent potential threats.
 
 ## 💻Installation and Setup
