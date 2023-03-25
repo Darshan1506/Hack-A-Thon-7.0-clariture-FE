@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/63538576/226506174-0b593554-e2b7-42c3-
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Team Contributor
 - [Sandeep Vishwakarma](https://github.com/sv2441)
-- [Sai Bhatkar](https://github.com/robospace9) 
+- [Sai Bhatkar](https://github.com/saibhatkar) 
 - [Pooja Sharma](https://github.com/Poojasharma1301)
 - [Satyam Palkar](https://github.com/SatyamPalkar)
 - [Darshan Rajpurohit](https://github.com/Darshan1506)
