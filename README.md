@@ -1,7 +1,6 @@
 # 🏁Clariture
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=Black&size=25&lines=+Submitted+In+Hack-A-Thon-7.0)](https://git.io/typing-svg)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
 
 ![output gif](https://user-images.githubusercontent.com/62471058/226515397-276c5558-17aa-4d02-9fc9-cf7beaf62ef1.gif)
